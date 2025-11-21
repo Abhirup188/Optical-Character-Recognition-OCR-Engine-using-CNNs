@@ -82,4 +82,4 @@ Test Accuracy: Validated on unseen test data with consistent performance.
 
 Visuals: See the notebook for confusion matrices and sample predictions.
 
-Built by [Your Name] - Mechanical Engineering & Robotics Specialist
+Built by [Abhirup Chakraborty] - Mechanical Engineering & Robotics Specialist
